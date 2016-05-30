@@ -1,5 +1,5 @@
-# 1. gitbook 사용하기
+# 2. gitbook 사용하기
 
-## 1.1. gitbook.com
+## 2.1. gitbook.com
 
-## 1.2. local
+## 2.2. local

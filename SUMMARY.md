@@ -4,4 +4,5 @@
 - [Introduction](README.md)
 - [Chapter 1](_draft/chapter01.md)
 - [Chapter 2](_draft/chapter02.md)
+- [Chapter 3](_draft/chapter03.md)
 
