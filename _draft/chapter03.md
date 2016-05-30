@@ -1,3 +1,3 @@
-# 3장. git 사용하기
+# 3. git 사용하기
 
-This is content of Chapter 2.
+3장에서는 git 사용하는 방법을 알아봅니다. git은 CVS, SVN이라는 도구와 함께 개발자들 사이에서 매우 인기있는 버전 관리 도구 중 하나입니다.
