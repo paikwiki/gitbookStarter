@@ -1,3 +1,5 @@
-# 2장. git 사용하기
+# 1. gitbook 사용하기
 
-This is content of Chapter 2.
+## 1.1. gitbook.com
+
+## 1.2. local
