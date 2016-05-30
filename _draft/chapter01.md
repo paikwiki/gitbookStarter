@@ -1,3 +1,5 @@
-# 1장. gitbook 설치하기
+# 1. gitbook 사용하기
 
-This is content of Chapter 1.
+## 1.1. gitbook.com
+
+## 1.2. local
